@@ -1,0 +1,2 @@
+# webpack-scalajs
+webpack-scalajs
