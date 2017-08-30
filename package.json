@@ -1,0 +1,23 @@
+{
+  "name": "webpack-scalajs",
+  "version": "1.0.0",
+  "description": "webpack-scalajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thzt/webpack-scalajs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thzt/webpack-scalajs/issues"
+  },
+  "homepage": "https://github.com/thzt/webpack-scalajs#readme",
+  "devDependencies": {
+    "scalajs-loader": "0.0.1"
+  }
+}
