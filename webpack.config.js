@@ -3,11 +3,11 @@ const path = require('path');
 module.exports = {
     context: path.resolve(__dirname, ''),
     entry: [
-        path.resolve(__dirname, 'src/main/scala/test/App.scala')
+        path.resolve(__dirname, 'src/main/scala/SampleMain.scala')
     ],
     output: {
         path: path.resolve(__dirname, 'dist/'),
-        filename: 'app.js'
+        filename: 'index.js'
     },
     module: {
         loaders: [
